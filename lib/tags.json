@@ -44,9 +44,9 @@
     "description": "This weapon can be fired over obstacles, usually by lobbing a projectile in an arc. Attacks made with this weapon don’t require line of sight, as long as it’s possible to trace a path to the target; however, they are still affected by cover."
   },
   {
-    "id": "tg_ap",
-    "name": "ARMOR-PIERCING (AP)",
-    "description": "Damage dealt by this weapon ignores Armor."
+    "id": "tg_ap_cn",
+    "name": "穿甲 (AP)",
+    "description": "此武器造成的伤害无视护甲。"
   },
   {
     "id": "tg_inaccurate",
