@@ -1,10 +1,10 @@
 [
   {
-    "id": "act_move",
-    "name": "Move",
+    "id": "act_move_cn",
+    "name": "移动",
     "activation": "Move",
-    "terse": "Move your character up to its Speed in any direction.",
-    "detail": "On their turn, characters can always move spaces equal to their SPEED, in addition to any other actions. This is called a standard move to distinguish it from movement granted by systems or talents.<br>A character only counts as moving if they move 1 or more spaces.<br>Characters can move into any adjacent space, even diagonally, as long as the space isn’t occupied by an obstruction (and is one that they would be able to move in – characters can't move straight up unless they can fly, for example). There are several factors that can affect movement, which are detailed here.",
+    "terse": "向任意方向移动你的角色，至多<b>速度</b>格",
+    "detail": "在通常动作之外，每个角色在自己的回合都可以移动至多<b>速度</b>格。为了和通过其他系统或天赋提供的移动区分开，这被称作标准移动。<br>角色只有在移动了 1 格以上的场合才被算作正在移动<br>角色可以移动到任何邻接的空间（包括对角线），只要他们的目的地没有被障碍物占据。（当然，角色需要能抵达他们的目的地，比方说，不能飞行的角色不能垂直移动）除此之外，还有一些别的因素可能会影响到移动，亦在此处列出。",
     "pilot": true,
     "mech": true,
     "hide_active": true
