@@ -12,36 +12,36 @@
   {
     "id": "tg_line_cn",
     "name": "线性 {VAL}",
-    "description": "Attacks made with this weapon affect characters in a straight line, {VAL} spaces long.",
+    "description": "这具武器的攻击影响一条 {VAL} 格长的直线空间上的所有角色。",
     "filter_ignore": true
   },
   {
     "id": "tg_cone_cn",
     "name": "锥形 {VAL}",
-    "description": "Attacks made with this weapon affect  characters within a cone, {VAL} spaces long and {VAL} spaces wide at its furthest point. The cone begins 1 space wide.",
+    "description": "这具武器的攻击影响一块自攻击起始点起 {VAL} 格长 {VAL} 格宽的锥形空间内的所有角色。锥形空间的宽度从 1 开始。",
     "filter_ignore": true
   },
   {
     "id": "tg_blast_cn",
     "name": "溅射 {VAL}",
-    "description": "Attacks made with this weapon affect characters within a radius of {VAL} spaces, drawn from a point within Range and line of sight. Cover and line of sight are calculated based on the center of the blast, rather than the attacker’s position.",
+    "description": "这具武器的攻击影响所有距离攻击落点 {VAL} 格距离内的所有角色, 攻击落点必须在武器射程和视线范围内。这攻击的效果线和掩护基于攻击落点而非攻击者的位置计算。",
     "filter_ignore": true
   },
   {
     "id": "tg_burst_cn",
     "name": "爆发 {VAL}",
-    "description": "Attacks made with this weapon affect characters within a radius of {VAL} spaces, centered on and including the space occupied by the user (or target). If the Burst is an attack, the user or target is not affected by the attack unless specified. Cover and line of sight are calculated from the character. If a Burst effect is ongoing, it moves with the character at its center.",
+    "description": "这具武器的攻击影响一个以使用者（或目标）为中心，距离 {VAL} 格范围内的所有角色。若果爆发效果是一种攻击，那么除非特别说明，使用者（或初始目标）不受该攻击影响。这攻击的效果线和掩护基于使用者（或初始目标）角色的位置计算。如果一个爆发范围效果是持续性的，它会随着对应角色移动而移动。",
     "filter_ignore": true
   },
   {
     "id": "tg_accurate_cn",
     "name": "精准",
-    "description": "Attacks made with this weapon receive +1 Accuracy."
+    "description": "使用这具武器进行的攻击获得 +1 精度。"
   },
   {
     "id": "tg_arcing_cn",
     "name": "曲射",
-    "description": "This weapon can be fired over obstacles, usually by lobbing a projectile in an arc. Attacks made with this weapon don’t require line of sight, as long as it’s possible to trace a path to the target; however, they are still affected by cover."
+    "description": "这具武器发射的攻击可以从障碍物上方飞过，通常以一道抛物线作为轨迹。只要有合理的弹道可用，使用它进行的攻击目标不需要在视野范围内，但是掩护造成的效果依然需要照常计算。"
   },
   {
     "id": "tg_ap_cn_cn",
@@ -51,7 +51,7 @@
   {
     "id": "tg_inaccurate_cn",
     "name": "失准",
-    "description": "Attacks made with this weapon receive +1 Difficulty."
+    "description": "使用这具武器进行的攻击承受 +1 难度。"
   },
   {
     "id": "tg_knockback_cn",
@@ -232,18 +232,18 @@
   {
     "id": "tg_range_cn",
     "name": "射程 ({VAL})",
-    "description": "This system can be activated at a range of {VAL} spaces.",
+    "description": "这具武器的射程是 {VAL} 格。",
     "filter_ignore": true
   },
   {
     "id": "tg_modded_cn",
-    "name": "模块化",
-    "description": "This weapon has been equipped with a weapon mod."
+    "name": "装备模块",
+    "description": "这具武器装备了武器模块。"
   },
   {
     "id": "tg_resistance_cn",
     "name": "抗性",
-    "description": "Reduce all damage from a source you have resistance to by half"
+    "description": "对于所有你有抗性的伤害来源，你只承受一半伤害。"
   },
   {
     "id": "tg_exotic_cn",
