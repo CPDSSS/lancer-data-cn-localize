@@ -18,16 +18,16 @@
     ],
     "tags": [
       {
-        "id": "tg_accurate"
+        "id": "tg_accurate_cn"
       },
       {
-        "id": "tg_ap"
+        "id": "tg_ap_cn"
       },
       {
-        "id": "tg_loading"
+        "id": "tg_loading_cn"
       },
       {
-        "id": "tg_ordnance"
+        "id": "tg_ordnance_cn"
       }
     ],
     "source": "GMS",
@@ -54,7 +54,7 @@
     ],
     "tags": [
       {
-        "id": "tg_reliable",
+        "id": "tg_reliable_cn",
         "val": 2
       }
     ],
@@ -109,13 +109,13 @@
     ],
     "tags": [
       {
-        "id": "tg_accurate"
+        "id": "tg_accurate_cn"
       },
       {
-        "id": "tg_loading"
+        "id": "tg_loading_cn"
       },
       {
-        "id": "tg_reliable",
+        "id": "tg_reliable_cn",
         "val": 5
       }
     ],
@@ -143,7 +143,7 @@
     ],
     "tags": [
       {
-        "id": "tg_ap"
+        "id": "tg_ap_cn"
       }
     ],
     "source": "GMS",
@@ -170,7 +170,7 @@
     ],
     "tags": [
       {
-        "id": "tg_inaccurate"
+        "id": "tg_inaccurate_cn"
       }
     ],
     "source": "GMS",
@@ -223,16 +223,16 @@
     ],
     "tags": [
       {
-        "id": "tg_arcing"
+        "id": "tg_arcing_cn"
       },
       {
-        "id": "tg_inaccurate"
+        "id": "tg_inaccurate_cn"
       },
       {
-        "id": "tg_loading"
+        "id": "tg_loading_cn"
       },
       {
-        "id": "tg_ordnance"
+        "id": "tg_ordnance_cn"
       }
     ],
     "source": "GMS",
@@ -263,7 +263,7 @@
     ],
     "tags": [
       {
-        "id": "tg_loading"
+        "id": "tg_loading_cn"
       }
     ],
     "source": "GMS",
@@ -294,10 +294,10 @@
     ],
     "tags": [
       {
-        "id": "tg_arcing"
+        "id": "tg_arcing_cn"
       },
       {
-        "id": "tg_inaccurate"
+        "id": "tg_inaccurate_cn"
       }
     ],
     "source": "GMS",
@@ -324,7 +324,7 @@
     ],
     "tags": [
       {
-        "id": "tg_smart"
+        "id": "tg_smart_cn"
       }
     ],
     "source": "GMS",
@@ -351,7 +351,7 @@
     ],
     "tags": [
       {
-        "id": "tg_smart"
+        "id": "tg_smart_cn"
       }
     ],
     "source": "GMS",
@@ -382,7 +382,7 @@
     ],
     "tags": [
       {
-        "id": "tg_reliable",
+        "id": "tg_reliable_cn",
         "val": 1
       }
     ],
@@ -410,7 +410,7 @@
     ],
     "tags": [
       {
-        "id": "tg_overkill"
+        "id": "tg_overkill_cn"
       }
     ],
     "source": "GMS",
@@ -441,10 +441,10 @@
     ],
     "tags": [
       {
-        "id": "tg_loading"
+        "id": "tg_loading_cn"
       },
       {
-        "id": "tg_ordnance"
+        "id": "tg_ordnance_cn"
       }
     ],
     "source": "GMS",
@@ -496,7 +496,7 @@
     ],
     "tags": [
       {
-        "id": "tg_thrown",
+        "id": "tg_thrown_cn",
         "val": 3
       }
     ],
@@ -546,7 +546,7 @@
     ],
     "tags": [
       {
-        "id": "tg_heat_self",
+        "id": "tg_heat_self_cn",
         "val": 2
       }
     ],
@@ -596,7 +596,7 @@
     ],
     "tags": [
       {
-        "id": "tg_ap"
+        "id": "tg_ap_cn"
       }
     ],
     "source": "GMS",
